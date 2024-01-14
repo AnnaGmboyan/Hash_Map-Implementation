@@ -18,7 +18,8 @@ The HashMap implementation includes the following features:
 - Key uniqueness enforcement.
 - Support for various operations such as insertion, retrieval, removal, and more.
 - it has structure like this
-- ![Screenshot from 2024-01-14 22-25-01(3)](https://github.com/AnnaGmboyan/Hash_Map-Implementation/assets/138877122/c476129a-cd7d-427a-9f1d-ec1cec743239)
+- ![Screenshot from 2024-01-14 22-25-01(3)](https://github.com/AnnaGmboyan/Hash_Map-Implementation/assets/138877122/6333215a-2920-4731-882e-9bec18568a2f)
+
 
 
 ## Features
